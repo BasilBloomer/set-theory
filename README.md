@@ -1,0 +1,1 @@
+This project is a solution to the first question from 2-1 project 2 - assignment.pdf. It is a demonstration of my primary academic specialty being set theory / computer logic / binary mathematics / symbolic logic.
